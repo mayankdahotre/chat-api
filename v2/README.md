@@ -116,3 +116,10 @@ v2/
 
 **Backend:** FastAPI · LangGraph · LangChain Core · aiosqlite · Pydantic · SSE  
 **Frontend:** React · TypeScript · Vite
+
+<img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/bcd820d0-bee3-4f12-9d4a-25222b8be426" />
+<img width="1912" height="836" alt="image" src="https://github.com/user-attachments/assets/398c8687-0847-4936-b05b-0c3d22ebb8e8" />
+<img width="1918" height="821" alt="image" src="https://github.com/user-attachments/assets/18984f2d-2a91-452b-ad1d-b0116d2e7624" />
+<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/21656370-ad1c-4b1f-8860-9f27675f4868" />
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/b235008f-5898-428e-bb6c-79f389964024" />
+
